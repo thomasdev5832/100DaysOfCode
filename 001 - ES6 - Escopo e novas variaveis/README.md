@@ -35,7 +35,7 @@ function exemploFuncao() {
 #### Escopo de Constantes:
 - A palavra-chave **const** também foi introduzida no ES6 para declarar variáveis constantes. Essas variáveis não podem ser reatribuídas e têm escopo de bloco.
 
-**const** é uma variável que não podemos reatribuir! Porém, se for um objeto, podemos modificar os valores desse objeto.
+- **const** é uma variável que não podemos reatribuir! Porém, se for um objeto, podemos modificar os valores desse objeto.
 
 ```
 function exemploConstante() {
