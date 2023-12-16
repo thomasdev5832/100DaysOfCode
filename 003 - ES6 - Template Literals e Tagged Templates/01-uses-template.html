@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>01 - Template Literals</title>
+</head>
+<body>
+</body>
+
+<script>
+    const brazil = {
+        live: 'MG',
+        love: 'Itacaré'
+    }
+
+    const text = 'Eu moro em ' + brazil.live + ' e sou apaixonado por ' + brazil.love +'!';
+    console.log(text);
+
+    const newText = `Eu moro em ${brazil.live} e sou apaixonado por ${brazil.love}!`;     
+    console.log(newText);
+
+    const fruits = 'bannana'
+                + '\n'
+                + 'orange'
+                + '\n'
+                + 'apple';
+
+    console.log(fruits);
+
+const newFruits = 
+`bannana
+orange
+apple`;
+    
+    console.log(newFruits);
+
+</script>
+
+</html>
