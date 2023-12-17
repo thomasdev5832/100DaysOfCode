@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>03 - Array.find e Array.findIndex</title>
+</head>
+<body>
+</body>
+
+<script>
+    const data = [
+        {
+            name: 'Gabriel',
+            age: 22,
+            city: 'London'
+        },
+        {
+            name: 'Rafael',
+            age: 10,
+            city: 'New York'
+        }
+    ];
+
+    // const sampleArray = [4, -5, 0, -1];
+    // const underZero = sampleArray.find(x => x < 0);
+    // const underZeroIndex = sampleArray.findIndex(x => x < 0);
+    // console.log(underZero);
+    // console.log(underZeroIndex);
+
+    const human = data.find(person => person.name === 'Rafael');
+    const humanIndex = data.findIndex(person => person.name === 'Rafael');
+    console.log(human);
+    console.log(humanIndex);
+</script>
+</html>
