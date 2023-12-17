@@ -6,6 +6,7 @@ Links interessantes:
 
 
 Índice:
+
 [001 - ES6: Escopo, variáveis e hoisting](./001%20-%20ES6%20-%20Escopo%20e%20novas%20variaveis/)
 
 [002 - ES6: ES6: Arrow function](./002%20-%20ES6%20-%20Arrow%20function/)
