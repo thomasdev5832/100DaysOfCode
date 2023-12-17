@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>02 - Default Parameters</title>
+</head>
+<body>
+</body>
+
+<script>
+    function hello (name = 'Rafael', nickname = 'Rafa') {
+        console.log(`Hello ${name} ${nickname}! How are you?`);
+    }
+
+    hello();
+
+    hello('Gabriel', 'Thomas');
+
+    hello('Satoshi');
+
+    /* output:
+        Hello Rafael Rafa! How are you?
+        Hello Gabriel Thomas! How are you?
+        Hello Satoshi Rafa! How are you?
+    */
+
+</script>
+</html>

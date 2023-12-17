@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>01 - Shorthand Properties</title>
+</head>
+<body>
+</body>
+
+<script>
+
+    let firstName = 'Rafael';
+    let nickname = 'Rafa';
+    let age = 10;
+
+    // ES5
+   /* 
+    const person = {
+        firstName: firstName,
+        nickname: nickname,
+        age: age,
+
+        hello: function () {
+            console.log('Hello')
+        }
+   };
+   */
+
+   // ES6 - Shorthand properties
+   const person = {
+        firstName,
+        nickname,
+        age,
+
+        hello() {
+            console.log('Hello')
+        }
+   };
+
+   console.log(person);
+   person.hello();
+
+</script>
+</html>
