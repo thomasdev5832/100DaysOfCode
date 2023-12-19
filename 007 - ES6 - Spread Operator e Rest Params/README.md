@@ -1,6 +1,7 @@
 ## ES6 - Spread Operator & Rest Params
 
-Spreap Operator é representado por três pontos consecutivos **(...)** e é usado para espalhar elementos de um array ou propriedades de um objeto.
+### Spread Operator 
+Spread Operator é representado por três pontos consecutivos **(...)** e é usado para espalhar elementos de um array ou propriedades de um objeto.
 
 #### Spread Operator com Arrays:
 1. Copiando Arrays:
@@ -52,7 +53,7 @@ console.log(modifiedObj); // Output: { a: 1, b: 3 }
 
 ---
 
-## Rest Params
+### Rest Params
  O parâmetro rest (ou rest parameter) permite que uma função aceite um número indefinido de argumentos como um array. 
  É representado pelo operador (...) seguido por um nome de parâmetro.
 
