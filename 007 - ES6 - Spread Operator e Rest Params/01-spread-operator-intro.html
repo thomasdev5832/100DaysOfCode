@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>01 - Spread Operator Intro</title>
+</head>
+<body>
+</body>
+
+<script>
+    let front = ['react', 'vue', 'angular'];
+    let back = ['python', 'ruby', 'nodejs'];
+
+    console.log([...'Rafael']); // output:  ['R', 'a', 'f', 'a', 'e', 'l']
+    console.log(...'Rafael'); // output:  R a f a e l
+
+    console.log(...front); // output: react vue angular
+    console.log(front); // output: ['react', 'vue', 'angular']
+
+    let fullstack = front.concat(back);
+    console.log(fullstack); // output:  ['react', 'vue', 'angular', 'python', 'ruby', 'nodejs']
+
+    let fullstack2 = [];
+    fullstack2 = fullstack2.concat(front);
+    fullstack2.push('RxJS');
+    fullstack2 = fullstack2.concat(back);
+    console.log(fullstack2); // output:  ['react', 'vue', 'angular', 'RxJS', 'python', 'ruby', 'nodejs']
+
+    // com spread
+    let fullstack3 = [...front,'RxJS', ...back];
+    console.log(fullstack3); // // output:  ['react', 'vue', 'angular', 'RxJS', 'python', 'ruby', 'nodejs']
+
+</script>
+</html>
