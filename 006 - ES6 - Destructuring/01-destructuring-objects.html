@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>01 - Destructuring Objects</title>
+</head>
+<body>
+</body>
+
+<script>
+    var data = {
+        name: 'Satoshi',
+        surname: 'Nakamoto',
+        age: 25,
+        blog: 'https://bitcoin.org',
+        social: {
+            twitter: '@bitcoin',
+            facebook: '/bitcoin'
+        }
+    };
+
+    // const name = data.name;
+    // const surname = data.surname;
+    // const twitter = data.social.twitter;
+    // const facebook = data.social.facebook;
+
+    // console.log(name);
+    // console.log(surname);
+    // console.log(twitter);
+    // console.log(facebook);
+
+    const { name, surname } = data;
+    console.log(name);
+    console.log(surname);
+    
+    const { facebook, twitter } = data.social;
+    console.log(data.social);
+
+    // mudar valor da variavel
+    const { facebook: fb} = data.social;
+    console.log(fb);
+
+    // chamar um valor que nao tem ainda no data, inserindo um valor default
+    const { city = 'New York'} = data;
+    console.log(city);
+
+</script>
+</html>
