@@ -14,3 +14,7 @@ Links interessantes:
 [003 - ES6: Template Literals & Tagged Templates](./003%20-%20ES6%20-%20Template%20Literals%20e%20Tagged%20Templates/)
 
 [004 - ES6: Shorthand Properties, Default Parameters & String Methods](./004%20-%20ES6%20-%20Shorthand%20Properties%20-%20Default%20Parameters%20-%20String%20Methods/)
+
+[005 - ES6: Array Methods](./005%20-%20ES6%20-%20Array%20Methods/)
+
+[006 - ES6: Destructuring](./006%20-%20ES6%20-%20Destructuring/)
