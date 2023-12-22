@@ -65,7 +65,7 @@ console.log(iterator.next()); // { value: 1, done: false }
 Um objeto é considerado "iterável" se ele implementar o método Symbol.iterator. 
 
 - Este método deve retornar um objeto chamado "iterador". 
-- A presença desse método permite que o objeto seja iterado, geralmente usando estruturas de controle de fluxo como for...of ou utilizando métodos como Array.from().
+- A presença desse método permite que o objeto seja iterado, geralmente usando estruturas de controle de fluxo como **for...of** ou utilizando métodos como Array.from().
 
 Exemplo de um objeto iterável:
 ```
