@@ -86,7 +86,7 @@ myWeakMap.delete(chave);
 
 ---
 
-###### Uso Comum:
+##### Uso Comum:
 **Map**: Use quando precisar associar dados a chaves e desejar que essas chaves sejam de qualquer tipo.
 
 **WeakMap**: Use quando precisar associar dados a objetos específicos e desejar que a coleta de lixo funcione para esses objetos.
