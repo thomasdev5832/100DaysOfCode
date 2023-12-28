@@ -1,10 +1,10 @@
-## array.includes
+## ES7: array.includes
 
 O método Array.includes() é uma funcionalidade introduzida no ECMAScript 2016 (também conhecido como ES7) e está disponível no JavaScript moderno.
 
 É utilizado para verificar se um array contém um determinado elemento e retorna **true** se o elemento estiver presente, e **false** caso contrário.
 
-Exemplo>
+Exemplo:
 ```
 const frutas = ['maçã', 'banana', 'laranja', 'morango'];
 
