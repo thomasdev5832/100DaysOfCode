@@ -25,3 +25,21 @@ Links interessantes:
 [009 - ES6: Prototypal Inheritance and Classes](./009%20-%20ES6%20-%20Prototypal%20Inheritance%20and%20Classes/)
 
 [010 - ES6: Symbols and Iterators](./010%20-%20ES6%20-%20Symbols%20and%20Iterators/)
+
+[011 - ES6: Generators](./011%20-%20ES6%20-%20Generators/)
+
+[012 - ES6: Proxies](./012%20-%20ES6%20-%20Proxies/)
+
+[013 - ES6: Sets and Weaksets](./013%20-%20ES6%20-%20Sets%20and%20Weaksets/)
+
+[014 - ES6: Maps and Weakmaps](./014%20-%20ES6%20-%20Maps%20and%20Weakmaps/)
+
+[015 - ES8: padStart and padEnd Methods](./015%20-%20ES8%20-%20padStart%20and%20padEnd%20Methods/)
+
+[016 - ES7: Inclues](./016%20-%20ES7%20-%20Includes/)
+
+[017 - ES8: Object entries](./017%20-%20ES8%20-%20Object%20Entries/)
+
+
+
+
