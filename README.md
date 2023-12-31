@@ -40,6 +40,10 @@ Links interessantes:
 
 [017 - ES8: Object entries](./017%20-%20ES8%20-%20Object%20Entries/)
 
+[018 - ES8: Object values](./018%20-%20ES8%20-%20Object%20Values/)
+
+[010 - ES5: Trailing Commas](./019%20-%20ES5%20-%20Trailing%20Commas/)
+
 
 
 
