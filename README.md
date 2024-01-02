@@ -42,7 +42,11 @@ Links interessantes:
 
 [018 - ES8: Object values](./018%20-%20ES8%20-%20Object%20Values/)
 
-[010 - ES5: Trailing Commas](./019%20-%20ES5%20-%20Trailing%20Commas/)
+[019 - ES5: Trailing Commas](./019%20-%20ES5%20-%20Trailing%20Commas/)
+
+[020 - ES7: Exponentiation](./020%20-%20ES7%20-%20Exponentiation/)
+
+[021 - ES8: Async/Await](./021%20-%20ES8%20-%20Async%20Await/)
 
 
 
