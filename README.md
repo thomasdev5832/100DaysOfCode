@@ -1,5 +1,7 @@
 # 100Days of Code - ES6+ & TypeScript
 
+### [ JS Moderno (ES6+) ]
+
 Links interessantes:
 - [es6-features.org](http://es6-features.org/)
 - [Ponyfoo - es6-in-depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
@@ -48,6 +50,15 @@ Links interessantes:
 
 [021 - ES8: Async/Await](./021%20-%20ES8%20-%20Async%20Await/)
 
+### [ TypeScript ]
 
+Links interessantes:
+- [typescriptlang.org](https://www.typescriptlang.org/)
 
+Índice:
 
+[022 - TS: Intro](./022%20-%20TS%20-%20Intro/)
+
+[023 - TS: Fundamentals](./023%20-%20TS%20-%20Fundamentals/)
+
+[024 - TS: Fundamentals II](./024%20-%20TS%20-%20Fundamentals%20II/)
