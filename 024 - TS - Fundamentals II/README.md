@@ -1,4 +1,4 @@
-# Fuindamentals do TypeScript II
+# Fundamentos do TypeScript II
 
 ## Arrays
 
