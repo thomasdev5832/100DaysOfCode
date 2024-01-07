@@ -64,3 +64,5 @@ Links interessantes:
 [024 - TS: Fundamentals II](./024%20-%20TS%20-%20Fundamentals%20II/)
 
 [025 - TS: Narrowing](./025%20-%20TS%20-%20Narrowing/)
+
+[026 - TS: Functions](./026%20-%20TS%20-%20Functions/)
