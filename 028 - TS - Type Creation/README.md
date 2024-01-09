@@ -241,7 +241,7 @@ Aqui, a função wrapFunction aceita uma função func como argumento e retorna 
 
 Indexed Access Types, também conhecidos como tipos de acesso indexado, são uma poderosa característica do TypeScript que permite acessar o tipo de uma propriedade de um objeto usando a sintaxe de acesso de índice. Isso é útil ao lidar com tipos dinâmicos e genéricos, especialmente quando você deseja inferir ou manipular tipos de propriedades específicas.
 
-Exemplo Básico:
+### Exemplo Básico:
 
 ```
 // Definindo uma interface
