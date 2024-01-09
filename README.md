@@ -66,3 +66,7 @@ Links interessantes:
 [025 - TS: Narrowing](./025%20-%20TS%20-%20Narrowing/)
 
 [026 - TS: Functions](./026%20-%20TS%20-%20Functions/)
+
+[027 - TS: Object Types](./027%20-%20TS%20-%20Object%20Types/)
+
+[028 - TS: Type Creation](./028%20-%20TS%20-%20Type%20Creation/)
