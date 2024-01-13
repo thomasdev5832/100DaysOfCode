@@ -70,3 +70,9 @@ Links interessantes:
 [027 - TS: Object Types](./027%20-%20TS%20-%20Object%20Types/)
 
 [028 - TS: Type Creation](./028%20-%20TS%20-%20Type%20Creation/)
+
+[029 - TS: Classes](./029%20-%20TS%20-%20Classes/)
+
+[030 - TS: Modules](./030%20-%20TS%20-%20Modules/)
+
+[031 - TS: Decorators](./031%20-%20TS%20-%20Decorators/)
